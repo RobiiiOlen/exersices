@@ -23,6 +23,8 @@ namespace _01_exercise
             else if (sum < text)
                 Console.WriteLine();
 
+            Console.WriteLine("demo2");
+
 
 
 
