@@ -13,8 +13,16 @@ namespace _01_exercise
             Console.WriteLine("See on github demosaatmine");
             Console.WriteLine("Kui palju on 237x68?");
 
-            string text = "56169";
-            int sum = int.Parse(text);
+            int (sum = 56167);
+            int  = int.Parse(sum);
+            if text(true)
+                {
+                Console.WriteLine("ÕIGE!");
+
+            }
+            else if (sum < text)
+                Console.WriteLine();
+
 
 
 
