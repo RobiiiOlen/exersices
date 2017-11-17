@@ -1,0 +1,6 @@
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\01 exercise\bin\Debug\01 exercise.exe.config
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\01 exercise\bin\Debug\01 exercise.exe
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\01 exercise\bin\Debug\01 exercise.pdb
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\01 exercise\obj\Debug\01 exercise.csprojResolveAssemblyReference.cache
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\01 exercise\obj\Debug\01 exercise.exe
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\01 exercise\obj\Debug\01 exercise.pdb
