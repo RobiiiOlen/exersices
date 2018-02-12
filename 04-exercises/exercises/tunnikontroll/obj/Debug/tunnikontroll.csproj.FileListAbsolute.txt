@@ -1,0 +1,6 @@
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\tunnikontroll\bin\Debug\tunnikontroll.exe.config
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\tunnikontroll\bin\Debug\tunnikontroll.exe
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\tunnikontroll\bin\Debug\tunnikontroll.pdb
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\tunnikontroll\obj\Debug\tunnikontroll.csprojResolveAssemblyReference.cache
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\tunnikontroll\obj\Debug\tunnikontroll.exe
+C:\Users\banaa\Documents\GitHub\exersices\04-exercises\exercises\tunnikontroll\obj\Debug\tunnikontroll.pdb
