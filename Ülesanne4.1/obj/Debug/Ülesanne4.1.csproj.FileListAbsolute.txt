@@ -1,0 +1,6 @@
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\Ülesanne4.1\bin\Debug\Ülesanne4.1.exe.config
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\Ülesanne4.1\bin\Debug\Ülesanne4.1.exe
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\Ülesanne4.1\bin\Debug\Ülesanne4.1.pdb
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\Ülesanne4.1\obj\Debug\Ülesanne4.1.exe
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\Ülesanne4.1\obj\Debug\Ülesanne4.1.pdb
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\Ülesanne4.1\obj\Debug\Ülesanne4.1.csprojResolveAssemblyReference.cache
