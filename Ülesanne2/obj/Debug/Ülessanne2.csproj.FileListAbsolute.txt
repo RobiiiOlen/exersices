@@ -1,0 +1,5 @@
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\temp.tptlive.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
