@@ -26,16 +26,21 @@ namespace Ex3
 
             int d = 0;
 
+
+            Console.WriteLine("Sinu genereeritud arvud on:");
             while (d < quantity)
             {
-                Random arv = new Random();
-                int number = arv.Next(min, max);
+                Random arv1 = new Random();
+                int number = arv1.Next(min, max);
 
-                Console.WriteLine(number);
+
+                
+                Console.WriteLine($"--> 09.04.{number}");
                 d = d + 1;
 
-                System.Threading.Thread.Sleep(1000);
+                System.Threading.Thread.Sleep(500);
             }
+          
 
             Console.ReadLine();
         }

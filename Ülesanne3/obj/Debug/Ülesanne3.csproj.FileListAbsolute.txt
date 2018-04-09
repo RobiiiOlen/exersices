@@ -4,3 +4,9 @@ C:\Users\TEMP.TPTLIVE.000\documents\visual studio 2017\Projects\Ülesanne1\Conso
 C:\Users\TEMP.TPTLIVE.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp2\obj\Debug\Ülesanne3.csprojResolveAssemblyReference.cache
 C:\Users\TEMP.TPTLIVE.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\TEMP.TPTLIVE.000\documents\visual studio 2017\Projects\Ülesanne1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\TEMP.TPTLIVE.000\Documents\Visual Studio 2017\Projects\Ülesanne1\Ülesanne3\bin\Debug\ConsoleApp2.exe.config
+C:\Users\TEMP.TPTLIVE.000\Documents\Visual Studio 2017\Projects\Ülesanne1\Ülesanne3\bin\Debug\ConsoleApp2.exe
+C:\Users\TEMP.TPTLIVE.000\Documents\Visual Studio 2017\Projects\Ülesanne1\Ülesanne3\bin\Debug\ConsoleApp2.pdb
+C:\Users\TEMP.TPTLIVE.000\Documents\Visual Studio 2017\Projects\Ülesanne1\Ülesanne3\obj\Debug\Ülesanne3.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.TPTLIVE.000\Documents\Visual Studio 2017\Projects\Ülesanne1\Ülesanne3\obj\Debug\ConsoleApp2.exe
+C:\Users\TEMP.TPTLIVE.000\Documents\Visual Studio 2017\Projects\Ülesanne1\Ülesanne3\obj\Debug\ConsoleApp2.pdb
